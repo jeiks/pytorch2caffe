@@ -1,7 +1,8 @@
 ## PyTorch2Caffe
 
 Ported from [pytorch-caffe-darknet-convert](https://github.com/marvis/pytorch-caffe-darknet-convert). 
-Forked in [jeiks/pytorch-caffe-darknet-convert](https://github.com/jeiks/pytorch-caffe-darknet-convert).
+
+Forked to [jeiks/pytorch-caffe-darknet-convert](https://github.com/jeiks/pytorch-caffe-darknet-convert).
 
 Add support for 
 + Dilated Convolution Layer
